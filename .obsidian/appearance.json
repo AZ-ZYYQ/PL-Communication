@@ -1,3 +1,9 @@
 {
-  "cssTheme": "Blue Topaz"
+  "cssTheme": "Blue Topaz",
+  "enabledCssSnippets": [
+    "hide_blockcode",
+    "mermaid",
+    "pagewidth",
+    "pic_center"
+  ]
 }
