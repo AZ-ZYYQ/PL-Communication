@@ -8,7 +8,6 @@ mcode/C++_obj/*
 .trash/*
 _PDF files/*
 a.out
-.obsidian
 
 #忽略pdf文件
 *.pdf
