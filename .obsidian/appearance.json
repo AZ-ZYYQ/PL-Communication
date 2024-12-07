@@ -1,9 +1,10 @@
 {
   "cssTheme": "Blue Topaz",
+  "accentColor": "",
   "enabledCssSnippets": [
-    "hide_blockcode",
-    "mermaid",
     "pagewidth",
-    "pic_center"
-  ]
+    "mermaid"
+  ],
+  "baseFontSize": 15,
+  "theme": "obsidian"
 }

@@ -8,12 +8,12 @@
   "obsidian-icon-folder",
   "oz-image-plugin",
   "obsidian-latex-suite",
-  "media-extended",
   "omnisearch",
-  "remotely-save",
-  "surfing",
   "obsidian-style-settings",
   "obsidian-tasks-plugin",
   "obsidian-vimrc-support",
-  "vscode-editor"
+  "vscode-editor",
+  "surfing",
+  "media-extended",
+  "remotely-save"
 ]

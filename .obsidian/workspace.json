@@ -1,24 +1,55 @@
 {
   "main": {
-    "id": "da97196c478762dc",
+    "id": "b166ed10634c3b8c",
     "type": "split",
     "children": [
       {
-        "id": "2270a2a02df15e5c",
+        "id": "d58d576ce84fdbbf",
         "type": "tabs",
         "children": [
           {
-            "id": "c9be86997dcc76c6",
+            "id": "ae9368fb19a43b74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LZY/5.Create A New Variable.md",
+                "file": "KLG/Tools/Git Repo Gerrit/Git 1.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5.Create A New Variable"
+              "title": "Git 1"
+            }
+          },
+          {
+            "id": "46910db18db950b9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KLG/PL/PL Learning.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PL Learning"
+            }
+          },
+          {
+            "id": "0fe0589852975649",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KLG/PL/Rust/Rust-控制结构.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rust-控制结构"
             }
           }
         ]
@@ -27,15 +58,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "99989543e1063c50",
+    "id": "a4f2be395e22955e",
     "type": "split",
     "children": [
       {
-        "id": "b428db5c653d1a21",
+        "id": "c8193bf0d4017266",
         "type": "tabs",
         "children": [
           {
-            "id": "2a8bb82b5e958c0b",
+            "id": "26b2c7aa66c245b8",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +78,7 @@
             }
           },
           {
-            "id": "02ad5780fa19c50c",
+            "id": "16f5c8f15397ce4f",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -64,7 +95,7 @@
             }
           },
           {
-            "id": "1b2d7d8c8778a86f",
+            "id": "403087dceb94e436",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -74,17 +105,7 @@
             }
           },
           {
-            "id": "6818ef6d2220e603",
-            "type": "leaf",
-            "state": {
-              "type": "surfing-tab-tree",
-              "state": {},
-              "icon": "chrome",
-              "title": "Surfing Tab Tree"
-            }
-          },
-          {
-            "id": "810818850c89b631",
+            "id": "c7f5d7a8e3da47af",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -92,23 +113,45 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "b3d3c6b2e246fd00",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://chatgpt.com/c/67021f72-4b7c-8009-873f-d998b06861be"
+              },
+              "icon": "lucide-file",
+              "title": "中英文翻译与改写"
+            }
+          },
+          {
+            "id": "02de4bc62c75c4f3",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {},
+              "icon": "chrome",
+              "title": "Surfing Tab Tree"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 292.5
+    "width": 343.5
   },
   "right": {
-    "id": "138ecb3839b54bba",
+    "id": "dcee05eabb184441",
     "type": "split",
     "children": [
       {
-        "id": "7274ba19368235ca",
+        "id": "36637b85245d6de8",
         "type": "tabs",
         "children": [
           {
-            "id": "8bf1386f9e34b522",
+            "id": "9a83f0bcad7ad836",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -126,20 +169,21 @@
             }
           },
           {
-            "id": "1879aff9b2e61990",
+            "id": "69d68f2ad5873a73",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "KLG/Tools/Git Repo Gerrit/Git 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "Git 1 的出链列表"
             }
           },
           {
-            "id": "d8ccdb185808c9fd",
+            "id": "6b7482c9d98c56ea",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,33 +196,46 @@
             }
           },
           {
-            "id": "0b8caa085d47a71c",
+            "id": "9799ea84d67102db",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "LZY/5.Create A New Variable.md"
+                "file": "KLG/Tools/Git Repo Gerrit/Git 1.md"
               },
               "icon": "lucide-list",
-              "title": "5.Create A New Variable 的大纲"
+              "title": "Git 1 的大纲"
             }
           },
           {
-            "id": "ea035a3232de90d2",
+            "id": "267fc1a46c57edac",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "插件不再活动"
+            }
+          },
+          {
+            "id": "c73e107b96866477",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-file",
+              "title": "插件不再活动"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 344.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -189,27 +246,59 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
+      "remotely-save:Remotely Save": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "media-extended:Open media": false,
-      "omnisearch:Omnisearch": false,
-      "surfing:surfing-bookmark-manager": false,
-      "vscode-editor:新建代码文件": false,
       "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "vscode-editor:新建代码文件": false,
+      "surfing:surfing-bookmark-manager": false,
+      "media-extended:Open media": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false
     }
   },
-  "active": "2a8bb82b5e958c0b",
+  "active": "ae9368fb19a43b74",
   "lastOpenFiles": [
-    "Template",
-    "新建文件夹",
-    "LZY/6.Constant Value.md",
-    "LZY/2.Environment Configuration.md",
-    "Attach Files/Golang SDK.png",
-    "Attach Files",
-    "LZY/3.HelloWorld.md",
-    "LZY/1.First Introduce.md",
-    "LZY/5.Create A New Variable.md",
-    "LZY/4.Build And Complie.md",
-    "README.md"
+    "KLG/Tools/Git Repo Gerrit/Git.md",
+    "SHARE/Excalidraw/C执行过程.md",
+    "KLG/PL/泛型编程语言/Annotation And Code Format.md",
+    "SHARE/Excalidraw/gcc.md",
+    "KLG/PL/泛型编程语言/1.First Introduce.md - 快捷方式.lnk",
+    "KLG/PL/泛型编程语言/5.Create A New Variable.md",
+    "KLG/OS/Linux/Linux config.md",
+    "KLG/OS/Linux/2. 开发配置.md",
+    "KLG/PL/泛型编程语言/6.Constant Value.md",
+    "KLG/PL/泛型编程语言/4.Build And Complier.md",
+    "KLG/PL/泛型编程语言/3.HelloWorld.md",
+    "KLG/PL/泛型编程语言/2.Environment Configuration.md",
+    "KLG/PL/泛型编程语言/1.First Introduce.md",
+    "KLG/AI/Promote.md",
+    "RAR/Principle/Passion/邹汶真.md",
+    "RAR/Yearly_Record/2024年/12_December/WK12.01 - 12.07.md",
+    "RAR/RAR.md",
+    "RAR/Principle/Myself.md",
+    "RAR/Project/Daily Agenda.md",
+    "KLG/PL/PL Learning.md",
+    "KLG/PL/泛型编程语言/Project of Practice/Guessing Value/Rust_Guessing_Value.md",
+    "KLG/PL/Rust/Rust-函数.md",
+    "KLG/PL/Rust/Rust-方法与参数.md",
+    "KLG/PL/Rust/Rust-打印.md",
+    "Mcode/Rust/guessing_name/src/main.rs",
+    "Mcode/Rust/init/src/main.rs",
+    "Mcode/Rust/guessing_name/Cargo.toml",
+    "Mcode/Rust/guessing_name/src",
+    "Mcode/Rust/guessing_name/Cargo.lock",
+    "Mcode/Rust/init/src",
+    "Mcode/Rust/guessing_name",
+    "Mcode/Rust/init",
+    "Mcode/Rust",
+    "KLG/PL/泛型编程语言/PL Tools.md",
+    "KLG/PL/Rust/Rust-控制结构.md",
+    "KLG/PL/Rust/Rust-结构体.md",
+    "SHARE/Media/Pasted image 20230604164650.png",
+    "SHARE/Media/Pasted image 20230519150139.png",
+    "SHARE/Excalidraw/Scripts/Downloaded/Elbow connectors 1.svg",
+    "SHARE/Excalidraw/Scripts/Downloaded/Fixed horizontal distance between centers 1.svg",
+    "InBox/device_create().canvas",
+    "KLG/OS/Linux/LinuxDrv/__register_chrdev_region().canvas"
   ]
 }

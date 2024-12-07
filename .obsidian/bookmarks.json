@@ -1,0 +1,56 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1690946395104,
+      "items": [],
+      "title": "Record And Review"
+    },
+    {
+      "type": "group",
+      "ctime": 1690956732358,
+      "items": [
+        {
+          "type": "group",
+          "ctime": 1690964256588,
+          "items": [
+            {
+              "type": "file",
+              "ctime": 1690964225645,
+              "path": "KLG/OS/Linux/Junior_Drivers/RESOURCE/struct file.md",
+              "title": "file"
+            },
+            {
+              "type": "file",
+              "ctime": 1690963519758,
+              "path": "KLG/OS/Linux/LinuxDrv/struct char_device_struct.md",
+              "title": "char_device_struct"
+            }
+          ],
+          "title": "核心结构体"
+        },
+        {
+          "type": "file",
+          "ctime": 1690959297684,
+          "path": "KLG/OS/Linux/LinuxDrv/打印级别.md",
+          "subpath": "#printk打印",
+          "title": "pirntk"
+        },
+        {
+          "type": "file",
+          "ctime": 1690956709822,
+          "path": "KLG/OS/Linux/LinuxDrv/打印级别.md",
+          "title": "打印"
+        },
+        {
+          "type": "file",
+          "ctime": 1690959322907,
+          "path": "KLG/OS/Linux/LinuxDrv/打印级别.md",
+          "subpath": "#dev_err打印",
+          "title": "dev_err"
+        }
+      ],
+      "title": "嵌入式"
+    }
+  ]
+}

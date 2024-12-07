@@ -1,5 +1,7 @@
 {
   "vimMode": true,
-  "attachmentFolderPath": "Attach Files",
-  "showUnsupportedFiles": true
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "SHARE/Media"
 }

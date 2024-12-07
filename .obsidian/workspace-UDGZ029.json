@@ -1,0 +1,238 @@
+{
+  "main": {
+    "id": "7e3b862ab0bd728c",
+    "type": "split",
+    "children": [
+      {
+        "id": "afaec07403d866b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31ad4f00f67fc724",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识库/计算机/进程管理.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8db2030eb5afc7c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识库/医疗健康/行业信息.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "747db6b3d911a3f6",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Excalidraw/体系图.svg"
+              }
+            }
+          },
+          {
+            "id": "d902786711094d8c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "6be63512d29b74a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识库/计算机/处理器调度.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0fbea0e4ae004c04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识库/计算机/死锁.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3597437210a1efe1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "自我管理/本我.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "07543cedaada9a6c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "知识库/计算机/处理器调度.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "51437d2cb85855e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ef21338a2fd6729",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "053486a7a647ad6d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse"
+              }
+            }
+          },
+          {
+            "id": "30734ec9618ca57c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a9a1c1f040ed0c5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "acf96be9d8a0ba91",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d0f037622b8544e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9801b04fe16c0dd1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "知识库/医疗健康/行业信息.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf6d8d31a9112841",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "知识库/医疗健康/行业信息.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d5c9385ecbecf8f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4a16ad6197a26e91",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "知识库/医疗健康/行业信息.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "8db2030eb5afc7c1",
+  "lastOpenFiles": [
+    "知识库/医疗健康/临床研究相关概念.md",
+    "知识库/医疗健康/临床研究.md",
+    "知识库/医疗健康/介入器械.md",
+    "知识库/医疗健康/互联网医疗.md",
+    "知识库/计算机/内存管理.md",
+    "知识库/计算机/线程管理.md",
+    "知识库/计算机/进程管理.md",
+    "知识库/计算机/经典同步问题.md",
+    "知识库/计算机/进程协作.md",
+    "知识库/计算机/操作系统.md"
+  ]
+}

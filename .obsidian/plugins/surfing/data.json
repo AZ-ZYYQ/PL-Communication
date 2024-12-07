@@ -46,7 +46,17 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [],
+  "treeData": [
+    {
+      "id": "b3d3c6b2e246fd00",
+      "parent": 0,
+      "droppable": true,
+      "data": {
+        "fileType": "site",
+        "fileSize": ""
+      }
+    }
+  ],
   "enableHtmlPreview": true,
   "supportLivePreviewInlineUrl": true,
   "enableTreeView": true,
